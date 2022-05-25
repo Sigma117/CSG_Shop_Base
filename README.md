@@ -27,11 +27,21 @@ shipment identified by VAT number, name, location, email and optional telephone 
 
 More information on requaire [Project file](https://github.com/Sigma117/CSG_Shop_Base/blob/main/Negozio%20Elettronica%20FINALE%20V2.5.pdf)
 the file information include:
-### - Conceptual design
+### Conceptual design
 -   Analysis of the specifications
 -   Operations list
 -   Entity-Relationship model
+-   ecc...
 
+### Logic design
+- Volum table
+- Operation table
+- analysus of current duplication and redundancies
+- ecc...
+
+### Operation implementation
+- table implementation
+- query creation
 
 #### N.B. I'm sorry but at the moment the complete documentation is only available in Italian
 
