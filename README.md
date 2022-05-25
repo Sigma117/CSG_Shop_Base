@@ -22,11 +22,14 @@ associated only with the user who made it.
 The shop does not directly manage the shipments of orders to customers but relies on various companies of
 shipment identified by VAT number, name, location, email and optional telephone number.
 
+![Screenshot (24)](https://user-images.githubusercontent.com/71655239/170264194-a46102b7-130d-47fd-ae8e-940c4181d887.png)
+
+
 More information on requaire [Project file](https://github.com/Sigma117/CSG_Shop_Base/blob/main/Negozio%20Elettronica%20FINALE%20V2.5.pdf)
 #### N.B. I'm sorry but at the moment the complete documentation is only available in Italian
 
-## This Proeject includes alla the SQL queries
-The queries file it is [queries](https://github.com/Sigma117/CSG_Shop_Base/blob/main/query%20V5.3.SQL)
+## This Proeject includes all the SQL queries
+The queries file is available here! [queries](https://github.com/Sigma117/CSG_Shop_Base/blob/main/query%20V5.3.SQL)
 
 # Usage
 
