@@ -5,7 +5,7 @@ Project for the development of a database for online trading
 This is an university project in collaboration with [Giovanni Lopopolo](https://github.com/giovannilopopolo98) and [Claudio Canulla](https://github.com/claudioc93).
 
 
-This work was intended to Build a Prototype Database Management System for a possible online trade shop to Store the items and transactions of customers. It als store the followind information:
+This work was intended to Build a Prototype Database Management System for a possible online trade shop to Store the items and transactions of customers. It is a store with the followind information:
 
 1. Customers: Id, name, surname, e-mail, password
 2. Supplier: VAT number, cel, E-mail, Address
@@ -14,6 +14,7 @@ This work was intended to Build a Prototype Database Management System for a pos
 5. Sale Item: Id, date_start. date_end, discount%, category, item, brand
 6. Add_payment: Id, Card_number, date. amount, user, order
 
+more information on 
 
 all Items it is devided by categories, in that case we have 4 different class
 each product is supplied by only one supplier
