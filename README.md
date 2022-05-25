@@ -3,8 +3,7 @@ Project for the development of a database for online trading
 
 This is an university project in collaboration with [Giovanni Lopopolo](https://github.com/giovannilopopolo98) and [Claudio Canulla](https://github.com/claudioc93).
 
-
-This work was intended to Build a Prototype Database Management System for a possible online trade shop to Store the items and transactions of customers. It is a store with the followind information:
+This work was intended to Build a Prototype Database Management System for a possible online trade shop to Store the items and transactions of customers. Below we have some information about the Database
 
 1. Customers: Id, name, surname, e-mail, password
 2. Supplier: VAT number, cel, E-mail, Address
@@ -26,7 +25,9 @@ shipment identified by VAT number, name, location, email and optional telephone 
 
 
 More information on requaire [Project file](https://github.com/Sigma117/CSG_Shop_Base/blob/main/Negozio%20Elettronica%20FINALE%20V2.5.pdf)
-the file information include:
+
+The file information include:
+
 ### Conceptual design
 -   Analysis of the specifications
 -   Operations list
