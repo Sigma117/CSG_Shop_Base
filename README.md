@@ -16,7 +16,7 @@ The shop does not directly manage the shipments of orders to customers, but reli
 ![Screenshot (24)](https://user-images.githubusercontent.com/71655239/170264194-a46102b7-130d-47fd-ae8e-940c4181d887.png)
 
 
-More information on requaire [Project file](https://github.com/Sigma117/CSG_Shop_Base/blob/main/Negozio%20Elettronica%20FINALE%20V2.5.pdf)
+More information can be foubnd in [Project file](https://github.com/Sigma117/CSG_Shop_Base/blob/main/Negozio%20Elettronica%20FINALE%20V2.5.pdf)
 
 The file information include:
 
@@ -29,12 +29,12 @@ The file information include:
 ### Logic design
 - Volum table
 - Operation table
-- analysus of current duplication and redundancies
+- Analysis of current duplication and redundancies
 - ecc...
 
 ### Operation implementation
-- table implementation
-- query creation
+- Table implementation
+- Query creation
 
 #### N.B. I'm sorry but at the moment the complete documentation is only available in Italian
 
@@ -45,4 +45,4 @@ The queries file is available here! [queries](https://github.com/Sigma117/CSG_Sh
 
 This Databse was Designed and Tested for PostgresSQL 9.4
 
-If you use this basedate please refer us
+If you use this basedate please cite us. 
